@@ -4,7 +4,14 @@
 
 # X English WordNet in MySql form
 
-This provides zipped SQL files of the Extended English WordNet in MySql format. See [SQLUNET](http://sqlunet.sourceforge.net/) for more details.
+This provides zipped SQL files of the Extended English WordNet in **MySql** format.
 
-Downloadable [here](https://x-englishwordnet.github.io/mysql/xewnXX-mysql.zip) :
-https://x-englishwordnet.github.io/mysql/xewnXX-mysql.zip
+Download [xewnXX-mysql.zip](https://x-englishwordnet.github.io/mysql/xewnXX-mysql.zip).
+
+Database design document [here](xewn.pdf) that contains schema in UML, SQL schema, and finally the working model in MySql WorkBench format.
+
+Sample queries to be found [here](xewn-queries.pdf).
+
+Some table statistics to be found [here](stats/stats-XX.html).
+
+See [SQLUNET](http://sqlunet.sourceforge.net/) for global context.

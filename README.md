@@ -2,13 +2,13 @@
 <img width="256" height="256" src="images/xewn2.png">
 </p>
 
-# X English WordNet in MySql form
+# Open English Wordnet in MySql form
 
 <p align="center">
 <img width="150" src="images/MySQL.png">
 </p>
 
-This provides zipped SQL files of the Xtended English WordNet in **MySql** format.
+This provides zipped SQL files of the Open English Wordnet in **MySql** format.
 
 Download [xewnXX-mysql.zip](https://x-englishwordnet.github.io/mysql/xewnXX-mysql.zip).
 

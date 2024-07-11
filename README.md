@@ -10,7 +10,7 @@
 
 This provides zipped SQL files of the Open English Wordnet in **MySql** format.
 
-Download [oewn-2022-mysql.zip](https://x-englishwordnet.github.io/mysql/oewn-2022-mysql-2.0.0.zip).
+Download [oewn-2024-mysql.zip](https://x-englishwordnet.github.io/mysql/oewn-2024-mysql-2.1.1.zip).
 
 Database design document [here](oewn.pdf) that contains schema in UML, SQL schema, and finally the working model in MySql WorkBench format.
 
